@@ -1,0 +1,200 @@
+{
+  "menu": [
+    {
+      "id": "1",
+      "title": "Black Coffee",
+      "desc": "Sit lorem ipsum et diam elitr est dolor sed duo guberg sea et et lorem dolor",
+      "price": 8,
+      "img": "/images/hot-chocolate.jpeg",
+      "score": 4,
+      "type": "coffee",
+      "off": 0
+    },
+    {
+      "id": "2",
+      "title": "Chocolete Coffee",
+      "desc": "Sit lorem ipsum et diam elitr est dolor sed duo guberg sea et et lorem dolor",
+      "price": 7,
+      "img": "/images/menu-5.png",
+      "score": 3.5,
+      "type": "coffee",
+      "off": 0
+    },
+    {
+      "id": "3",
+      "title": "Chocolete Coffee",
+      "desc": "Sit lorem ipsum et diam elitr est dolor sed duo guberg sea et et lorem dolor",
+      "price": 7,
+      "img": "/images/menu-3.png",
+      "score": 4,
+      "type": "coffee",
+      "off": 0
+    },
+    {
+      "id": "4",
+      "title": "Chocolete Coffee",
+      "desc": "Sit lorem ipsum et diam elitr est dolor sed duo guberg sea et et lorem dolor",
+      "price": 7,
+      "img": "/images/menu-2.png",
+      "score": 4,
+      "type": "coffee",
+      "off": 0
+    },
+    {
+      "id": "5",
+      "title": "sosis",
+      "desc": "Sit lorem ipsum et diam elitr est dolor sed duo guberg sea et et lorem dolor",
+      "price": 8,
+      "img": "/images/menu-6.png",
+      "score": 4,
+      "type": "breakfast",
+      "off": 0
+    },
+    {
+      "id": "6",
+      "title": "lobia",
+      "desc": "Sit lorem ipsum et diam elitr est dolor sed duo guberg sea et et lorem dolor",
+      "price": 3,
+      "img": "/images/menu-1.png",
+      "score": 4,
+      "type": "breakfast",
+      "off": 0
+    },
+    {
+      "id": "7",
+      "title": "lobia",
+      "desc": "Sit lorem ipsum et diam elitr est dolor sed duo guberg sea et et lorem dolor",
+      "price": 4.8,
+      "img": "/images/menu-2.png",
+      "score": 4,
+      "type": "breakfast",
+      "off": 0
+    },
+    {
+      "id": "8",
+      "title": "lobia",
+      "desc": "Sit lorem ipsum et diam elitr est dolor sed duo guberg sea et et lorem dolor",
+      "price": 7.5,
+      "img": "/images/menu-3.png",
+      "score": 4,
+      "type": "breakfast",
+      "off": 0
+    },
+    {
+      "id": "9",
+      "title": "lobia",
+      "desc": "Sit lorem ipsum et diam elitr est dolor sed duo guberg sea et et lorem dolor ",
+      "price": 7,
+      "img": "/images/menu-4.png",
+      "score": 4,
+      "type": "breakfast",
+      "off": 0
+    },
+    {
+      "id": "10",
+      "title": "Black Coffee",
+      "desc": "Sit lorem ipsum et diam elitr est dolor sed duo guberg sea et et lorem dolor",
+      "price": 8,
+      "img": "/images/menu-5.png",
+      "score": 4,
+      "type": "coffee",
+      "off": 0
+    }
+  ],
+  "services": [
+    {
+      "id": "1",
+      "title": "breakfast",
+      "img": "/images/service-1.jpg"
+    },
+    {
+      "id": "2",
+      "title": "appetizers",
+      "img": "/images/service-2.jpg"
+    },
+    {
+      "id": "3",
+      "title": "drinks",
+      "img": "/images/service-3.jpg"
+    }
+  ],
+  "newsLetters": [
+    {
+      "id": "1",
+      "email": "alan@gmail.com"
+    },
+    {
+      "id": "e6855039-8396-451a-93bc-9bf54a627a9a",
+      "email": "00"
+    },
+    {
+      "id": "8a41",
+      "email": "asd"
+    }
+  ],
+  "reservation": [
+    {
+      "id": "1",
+      "fullName": "ss",
+      "phoneNumber": "09127170734",
+      "people": "2",
+      "date": "",
+      "time": "8am",
+      "description": ""
+    },
+    {
+      "id": "30b8",
+      "fullName": "a",
+      "phoneNumber": "09123578456",
+      "people": "3",
+      "date": "2024-05-10T20:30:00.000Z",
+      "time": "8am",
+      "description": ""
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "username": "sina",
+      "productID": 1,
+      "body": "This is a test message ",
+      "profile": "/images/avatar.jpg"
+    },
+    {
+      "id": "2",
+      "username": "ali",
+      "productID": 1,
+      "body": "This is a test message",
+      "profile": "/images/avatar.jpg"
+    },
+    {
+      "id": "3",
+      "username": "reza",
+      "productID": 1,
+      "body": "This is a test message",
+      "profile": "/images/avatar.jpg"
+    },
+    {
+      "id": "4",
+      "username": "hassan",
+      "productID": 1,
+      "body": "This is a test message",
+      "profile": "/images/avatar.jpg"
+    }
+  ],
+  "contact": [
+    {
+      "id": "0b2f",
+      "fullName": "s",
+      "email": "sasdw@gmail.com",
+      "subject": "a"
+    },
+    {
+      "id": "b7b6",
+      "fullName": "sina",
+      "email": "sina@gmail.com",
+      "subject": "good",
+      "description": "very good"
+    }
+  ]
+}
